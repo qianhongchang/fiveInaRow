@@ -1,0 +1,14 @@
+{
+  "name": "fiveson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anywhere": "^1.5.0"
+  }
+}
